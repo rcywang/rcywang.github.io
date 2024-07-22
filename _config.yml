@@ -34,10 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-email-protect # obfuscates emails to protect from spam bots
-  - jemoji # displays emojis
-  - jekyll-mentions # turns mentions @jekyll into links
-  - jekyll-sitemap # creates a sitemap
-  - jekyll-feed # creates an Atom feed of blog posts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
