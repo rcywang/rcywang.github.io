@@ -41,6 +41,7 @@ plugins:
   - jekyll-email-protect # obfuscates emails to protect them from spam bots 
   - jemoji # displays emojis :joy:
   - jekyll-sitemap # creates a sitemap
+  - jekyll-bootstrap-sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.
