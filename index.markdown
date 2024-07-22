@@ -5,7 +5,12 @@
 layout: home
 ---
 
-**Office**: Hennings 414
-**Address**: 6224 Agricultural Rd #325<br><br/>
-Vancouver, BC<br><br/>
-V6T 1Z1<br><br/>
+<div class="col-5 col-sm-5 col-md-3">
+<img src="/images/figs.png" class="float-sm-center float-md-right" style="width:100%>
+</div>
+
+**Office**: Hennings 414<br><br/>
+
+**Address**: 6224 Agricultural Rd #325<br>
+Vancouver, BC<br>
+V6T 1Z1
