@@ -6,7 +6,7 @@ layout: home
 ---
 
 ## Research
-Testing a description on the front page
+This webpage is a work-in-progress :sweat_smile:
 
 ### Contact
 Testing another description on the front page
