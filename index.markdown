@@ -5,4 +5,8 @@
 layout: home
 ---
 
-### Testing 1 2 3
+## Research
+Testing a description on the front page
+
+### Contact
+Testing another description on the front page

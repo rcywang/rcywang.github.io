@@ -32,7 +32,8 @@ github_username:  rcywang
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#  - jekyll-feed # creates an Atom feed of blog posts
+  - jekyll-email-protect # obfuscates emails to protect them from spam bots 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
