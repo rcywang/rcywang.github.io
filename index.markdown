@@ -5,5 +5,7 @@
 layout: home
 ---
 
-Testing another description on the front page<br><br/>
-Is this a page break?
+**Office**: Hennings 414
+**Address**: 6224 Agricultural Rd #325<br><br/>
+Vancouver, BC<br><br/>
+V6T 1Z1<br><br/>
