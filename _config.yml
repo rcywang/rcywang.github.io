@@ -21,16 +21,14 @@
 title: Rachel Wang
 email: rachelwang@phas.ubc.ca
 description: >- # this means to ignore newlines until "baseurl:"
-   # This will appear in your document head meta (for Google search results) and in your feed.xml site description.
-   WIP research website
+   WIP research website # This will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
 github_username:  rcywang
 
 # Build settings
-theme: minima
+theme: academic-jekyll-theme
 plugins:
 #  - jekyll-feed # creates an Atom feed of blog posts
   - jekyll-email-protect # obfuscates emails to protect them from spam bots 
