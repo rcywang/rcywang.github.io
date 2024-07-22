@@ -33,7 +33,6 @@ github_username:  rcywang
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-email-protect # obfuscates emails to protect from spam bots
 
 # Exclude from processing.
 # The following items will not be processed, by default.
